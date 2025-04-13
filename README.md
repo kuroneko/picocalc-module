@@ -26,5 +26,5 @@ standard interfaces given to the pico.
 * Input driver for the standard keyboard firmware
 * Work out how to integrate power-control via the keyboard firmware so
   pmdevice works properly and other power sequencing can work.
-* Tidy up picocalc_kb definitions (since I lifted it) direct from my WIP 
-  PMU/Keyboard firmware.
+* Tidy up picocalc_kb definitions (since I lifted it direct from my WIP 
+  PMU/Keyboard firmware.)
