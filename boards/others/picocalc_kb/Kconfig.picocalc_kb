@@ -1,0 +1,3 @@
+config BOARD_PICOCALC_KB
+	select SOC_STM32F103X8
+

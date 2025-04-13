@@ -1,0 +1,11 @@
+board:
+  name: picocalc_kb
+  vendor: others
+  revision:
+    format: major.minor.patch
+    default: 2.0.0
+    exact: false
+    revisions:
+      - name: 2.0.0
+  socs:
+  - name: stm32f103xb

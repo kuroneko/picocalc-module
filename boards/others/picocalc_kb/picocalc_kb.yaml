@@ -1,0 +1,12 @@
+identifier: picocalc_kb
+name: PicoCalc Power and Control
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+supported:
+  - i2c
+  - pwm
+  - watchdog
+testing:
+  default: true
